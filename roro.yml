@@ -1,0 +1,6 @@
+
+services:
+    - name: default
+      command: python -m http.server
+      directory: html
+    
