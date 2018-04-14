@@ -1,6 +1,6 @@
 
 services:
     - name: default
-      command: python -m http.server
+      command: python -m http.server 8080
       directory: html
     
