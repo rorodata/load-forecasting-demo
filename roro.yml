@@ -1,6 +1,11 @@
+# rorodata config file
+# The `roro deploy` command uses this to deploy this project in the rorodata platform
+#
+project: load-forecasting
+runtime: python3
 
 services:
     - name: default
-      command: python -m http.server 8080
-      directory: html
-    
+      function: predict.predict
+      size: S1
+
