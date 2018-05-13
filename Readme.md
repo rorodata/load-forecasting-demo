@@ -16,3 +16,7 @@ The electricity data can be found at [here](http://mis.nyiso.com/public/) under 
 
 The weather data can be found [here](https://www.ncdc.noaa.gov/orders/qclcd/)
 
+
+<p>
+<img style="display: inline;" src="load-predicttion.png">
+</p>
