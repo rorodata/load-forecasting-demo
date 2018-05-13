@@ -18,5 +18,5 @@ The weather data can be found [here](https://www.ncdc.noaa.gov/orders/qclcd/)
 
 
 <p>
-<img style="display: inline;" src="load-predicttion.png">
+<img style="display: inline;" src="load-prediction.png">
 </p>
